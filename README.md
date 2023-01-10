@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="https://app.daily.dev/EnzoDeg40"><img src="https://api.daily.dev/devcards/61e9766ef00d485dab1b6e3efa27dd14.png?r=0sf" width="400" alt="Enzo Degraeve's Dev Card"/></a>
