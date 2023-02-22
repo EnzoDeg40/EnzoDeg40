@@ -1,6 +1,6 @@
 👋 Hi, I’m Enzo Degraeve <br>
 👨🏻‍🎓 I am currently a work-study student <br>
-🌱 I’m working on the web site of [1fo-Tech](https://1fo-tech.com) <br>
+🌱 I’m working on an chat app with the [MAUI](https://github.com/dotnet/maui) framework<br>
 🌐 My personal website is [EdStudio](https://edstudio.fr/)
 
 <!---
