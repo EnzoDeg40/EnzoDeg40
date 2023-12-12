@@ -1,5 +1,5 @@
 👋 Hi, I’m Enzo Degraeve <br>
-👨🏻‍🎓 I'm student at at [42 Paris](http://42.fr). <br>
+👨🏻‍🎓 I'm student at [42 Paris](http://42.fr). <br>
 🌱 My goal is to keep myself updated on the latest technologies <br>
 🌐 You can check out my personal website at [EdStudio](https://edstudio.fr/) <br>
 🤖 Develop an artificial intelligence startup for companies called [ExpansIA](https://expansia.ai/)
