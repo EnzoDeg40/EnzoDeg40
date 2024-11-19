@@ -1,9 +1,15 @@
 👋 Hi, I’m Enzo Degraeve <br>
-👨🏻‍🎓 I'm student at [42 Paris](http://42.fr). <br>
-🌱 My goal is to keep myself updated on the latest technologies <br>
-🌐 You can check out my personal website at [EdStudio](https://edstudio.fr/) <br>
-🤖 Develop an artificial intelligence startup for companies called [ExpansIA](https://expansia.ai/)
+👨🏻‍🎓 I'm a student at [42 Paris](http://42.fr) sometimes at [forty2](https://42.fr/le-campus-de-paris/forty2/)<br>
+🌱 My goal is to stay updated on the latest technologies and work on exciting projects.<br>
+🌐 Check out my personal website: [EdStudio](https://edstudio.fr/)<br>
+🤖 I'm working on an AI startup for companies called [ExpansIA](https://expansia.ai/)
 
+### 🌟 Fun Facts
+🎮 I’m inspired by games like *Celeste*, *Outer Wilds*, *The Talos Principle*, and *Detroit: Become Human*.<br>
+🎵 I enjoy listening to electro/trance on Spotify while coding.<br>
+💻 I use a mix of WSL, macOS, and Ubuntu/Linux, depending on where I’m working.
+
+### 📫 Reach Me
 [<img src="assets/telegram.png"/>](https://t.me/enzodeg40)
 [<img src="assets/figma.png"/>](https://www.figma.com/@enzodeg40)
 [<img src="assets/instagram.png"/>](https://www.instagram.com/henzolab/)
