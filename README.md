@@ -22,4 +22,13 @@ You can click the Preview link to take a look at your changes.
 [![wakatime](https://wakatime.com/badge/user/9ad4beed-c5e8-47a5-ae2f-e85c0248f79f.svg)](https://wakatime.com/@9ad4beed-c5e8-47a5-ae2f-e85c0248f79f)
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript                 5 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+C++                        3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Python                     3 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+HTML                       1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Bash                       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+```
+
 <!--END_SECTION:waka-->
