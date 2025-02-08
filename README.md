@@ -24,11 +24,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                 5 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-C++                        3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-Python                     3 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-HTML                       1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
-Bash                       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Total Time: 275 hrs 49 mins
+
+C++                        143 hrs 50 mins #############------------   50.26 %
+Docker                     21 hrs          ##-----------------------   07.34 %
+Bash                       15 hrs 19 mins  #------------------------   05.36 %
+JavaScript                 13 hrs 9 mins   #------------------------   04.60 %
+C                          13 hrs 7 mins   #------------------------   04.59 %
 ```
 
 <!--END_SECTION:waka-->
