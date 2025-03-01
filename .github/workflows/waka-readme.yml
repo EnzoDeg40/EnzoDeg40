@@ -16,5 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: -■
+          LANG_COUNT: 7
           SHOW_TOTAL: true
           TIME_RANGE: all_time
+          IGNORED_LANGUAGES: Other Text
