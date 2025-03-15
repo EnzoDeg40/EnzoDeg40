@@ -19,7 +19,8 @@ EnzoDeg40/EnzoDeg40 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### wakatime
+### 🕐 WakaTime
+*since sep 25 2024*
 
 <!--START_SECTION:waka-->
 
