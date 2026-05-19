@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,097 hrs 41 mins
+Total Time: 1,121 hrs 59 mins
 
-Python                     531 hrs 50 mins       ███████████▌                45.78 %
-C++                        144 hrs 14 mins       ███▏                        12.42 %
-TypeScript                 76 hrs 36 mins        █▊                          06.59 %
-Markdown                   45 hrs 48 mins        █                           03.94 %
-Bash                       39 hrs 18 mins        █                           03.38 %
-JSON                       37 hrs 53 mins        ▉                           03.26 %
+Python                     536 hrs 29 mins       ███████████▍                45.24 %
+C++                        144 hrs 14 mins       ███                         12.16 %
+TypeScript                 85 hrs 54 mins        █▉                          07.24 %
+Markdown                   47 hrs 36 mins        █                           04.01 %
+JSON                       40 hrs 28 mins        █                           03.41 %
+Bash                       39 hrs 25 mins        ▉                           03.32 %
 ```
 
 <!--END_SECTION:waka-->
