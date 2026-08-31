@@ -11,7 +11,7 @@
 ```txt
 Total Time: 1,304 hrs 2 mins
 
-Python                     563 hrs 5 mins        ██████████▎                 40.83 %
+Python                     563 hrs 5 mins        ██████████▎                 40.82 %
 TypeScript                 172 hrs 15 mins       ███▏                        12.49 %
 C++                        152 hrs 36 mins       ██▉                         11.06 %
 Markdown                   80 hrs 42 mins        █▌                          05.85 %
